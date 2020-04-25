@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cs478_sp2020_project3_a2beta">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".AttractionsViewerActivity"
+            android:label="@string/app_name"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+  <activity
+      android:name=".RestaurantViewerActivity"
+      android:label="@string/app_name"
+      >
+      <intent-filter>
+          <action android:name="android.intent.action.PICK_ACTIVITY" />
+          <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+  </activity>
+
+        <receiver android:name=".MyReceiver_A2" android:exported="true"
+            android:permission="edu.uic.cs478.sp.project3" />
+    </application>
+
+</manifest>

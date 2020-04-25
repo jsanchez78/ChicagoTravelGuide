@@ -1,0 +1,2 @@
+rootProject.name='CS478_SP2020_Project3_A2Beta'
+include ':app'

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Chicago Travel Guide</string>
+    <string name="item">Restaurants</string>
+    <string name="item_attractions">Attractions</string>
+    <string-array name="Attractions">
+        <item>Maggie Daley Park</item>
+        <item> Navy Pier</item>
+        <item>360 Chicago </item>
+        <item>1871</item>
+        <item>Chicago Riverwalk</item>
+        <item>North Avenue Beach</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Art Institute of Chicago</item>
+
+    </string-array>
+    <string-array name="Websites">
+        <item>https://maggiedaleypark.com/</item>
+        <item>https://navypier.org/</item>
+        <item>https://360chicago.com/</item>
+        <item>https://1871.com/</item>
+        <item>https://www.chicagoriverwalk.us/</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://www.artic.edu/</item>
+
+    </string-array>
+    <!-- Restaurants -->
+    <string-array name="Restaurants">
+        <item>Jeni\'s splendid ice cream</item>
+        <item>Happy Camper Pizzeria</item>
+        <item>Velvet Taco</item>
+        <item>Sawada Coffee</item>
+        <item>Time Out Chicago Market</item>
+        <item>The Chicago Diner</item>
+
+    </string-array>
+    <string-array name="Restaurants_Websites">
+        <item>https://jenis.com/</item>
+        <item>http://happycamper.pizza/</item>
+        <item>https://www.velvettaco.com/</item>
+        <item>http://sawadacoffee.com/</item>
+        <item>https://www.timeoutmarket.com/chicago/</item>
+        <item>http://www.veggiediner.com/menus/</item>
+
+    </string-array>
+
+
+
+</resources>
