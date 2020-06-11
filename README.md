@@ -3,4 +3,4 @@
 
 ## Demo
 
-![](./MagicPaper/ChicagoTravelGuide15.gif
+![](./ChicagoTravelGuide15.gif
